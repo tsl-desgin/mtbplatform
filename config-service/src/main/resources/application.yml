@@ -6,7 +6,8 @@ spring:
       server:
         git:
           uri: https://github.com/tsl-desgin/omtbp-config-repo
-          username: tsl-design
-          password: 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
+          username: 
+          password: 
 server:
+
   port: 8888
